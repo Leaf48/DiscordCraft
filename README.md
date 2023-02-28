@@ -1,2 +1,2 @@
 # DiscordCraft
-It can controll character in Minecraft.
+It can controll a character in Minecraft.
